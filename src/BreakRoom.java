@@ -276,8 +276,8 @@ public class BreakRoom {
                                 break;
                             case 5: //vendor option to display results of .toString() method
                                 System.out.println("\nVending Machine Report");
-                                System.out.println(v1.toString());
-                                System.out.println(v2.toString());
+                                System.out.println(v1);
+                                System.out.println(v2);
                                 break;
                             case 6: // vendor option to exit back to the primary menu
                                 System.out.println("Leaving Vendor Menu");
